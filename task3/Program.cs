@@ -23,4 +23,4 @@ if (k < 3)
 { Console.WriteLine("Оно не трехзначное"); }
 else
 { Console.WriteLine(res); }
-Console.ReadKey();
+Console.ReadKey(); 
